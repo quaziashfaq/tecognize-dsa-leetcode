@@ -26,9 +26,9 @@ BigO Notation always describes worst case complexity.
 
 BigO
 
-| Item                | BigO   |
-|---------------------|--------|
-| Searching in a list | O(n)   |
-| Bubble Sort         | O$n^2$ |
-|                     |        |
+| Item                | BigO     |
+|---------------------|----------|
+| Searching in a list | O(n)     |
+| Bubble Sort         | O($n^2$) |
+|                     |          |
 
