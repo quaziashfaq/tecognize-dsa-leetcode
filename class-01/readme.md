@@ -23,12 +23,14 @@ To find the length of list use `len(a)`.
 
 ## Code Complexity
 BigO Notation always describes worst case complexity.
+There are 2 types of complexities:
+- Time Complexity : How much time is required
+- Space Complexity : How much extra space is required.
 
-BigO
 
-| Item                | BigO     |
-|---------------------|----------|
-| Searching in a list | O(n)     |
-| Bubble Sort         | O(n^2) |
-|                     |          |
+| Item                | Time Complexity |
+|---------------------|-----------------|
+| Searching in a list | O(n)            |
+| Bubble Sort         | O(n^2)          |
+|                     |                 |
 
