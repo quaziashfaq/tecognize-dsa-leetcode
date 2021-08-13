@@ -29,6 +29,6 @@ BigO
 | Item                | BigO     |
 |---------------------|----------|
 | Searching in a list | O(n)     |
-| Bubble Sort         | O($n^2$) |
+| Bubble Sort         | O(n^2) |
 |                     |          |
 
