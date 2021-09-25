@@ -6,7 +6,7 @@ class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         differences = {}
         '''
-        Take a number form the nums list.
+        Take a number from the nums list.
         Then find the difference from target value.
         Then check if the difference is in dict.
         If yes, we found the 2 values from the array whose sum equals to target.
